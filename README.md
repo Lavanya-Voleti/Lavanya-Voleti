@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Lavanya Voleti <img src="https://github.com/Lavanya-Voleti/Lavanya-Voleti/blob/main/Hi.gif" width="25"></h1>
+<h1 align="center">Hi , I'm Lavanya Voleti <img src="https://github.com/nagendraclouddevops/nagendraclouddevops/blob/main/Hi.gif" width="25"></h1>
 <h3 align="center">A passionate DevOps Engineer From India. I work in Corporate IT Sector</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Lavanya-Voleti&label=Profile%20views&color=0e75b6&style=flat" alt="Lavanya-Voleti" /> </p>
