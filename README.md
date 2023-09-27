@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
-<a href="www.linkedin.com/in/voleti-lavanya-88b96217a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nagenedra babu" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/voleti-lavanya-88b96217a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nagenedra babu" height="30" width="40" /></a>
 <a href="https://instagram.com/lavanyavoleti97?igshid=OGQ5ZDc2ODk2ZA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="p_n_babu" height="30" width="40" /></a>
   
 </p>
